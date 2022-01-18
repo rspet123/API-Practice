@@ -1,0 +1,12 @@
+{
+      "name": "waffles",
+      "ingredients": [
+        "waffle mix",
+        "water",
+        "egg"
+      ],
+      "instructions": [
+        "put waffle mix into waffle maker",
+        "eat waffles"
+      ]
+    }
